@@ -6,7 +6,7 @@
   
   [![Profile Views](https://komarev.com/ghpvc/?username=gokulkannan1604&label=Profile%20Views&color=1b4079&style=flat-square)](https://github.com/GOKULKANNAN1604)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gokul%20Kannan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-kannan-a-471361271/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://gokulkannan1604.github.io/my-portfolio/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://personalportfolio-lovat-nine.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-gokulgokulkannan770%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gokulgokulkannan770@gmail.com)
 
   <br />
@@ -19,10 +19,11 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Current Role:** Software Developer at **Suntrion Technosol**, building healthcare teleradiology platforms (SunVista) and desktop application licensing systems.
+- 💼 **Current Role:** Software Developer at **Suntrion Technosol**, working on healthcare teleradiology platforms (SunVista) and desktop application licensing portals.
 - 🚀 **Core Expertise:** React.js, Django REST Framework, PostgreSQL, WebSockets, and Redis/Celery async pipelines.
-- 🌐 **Specialized in:** Multi-tenant wildcard subdomain routing, stateful clinical rich text editors, and secure image workflows (AWS CloudFront / S3).
-- 💬 **Ask me about:** React state management, Django middleware & channels, query optimization, and REST API design.
+- 🌐 **Specialized in:** Multi-tenant wildcard subdomain routing, clinical rich-text report editors, and secure medical image workflows (AWS CloudFront / S3).
+- 💬 **Ask me about:** React state management, Django middleware & channels, database query optimization, and REST API design.
+- 🔗 **Portfolio:** [personalportfolio-lovat-nine.vercel.app](https://personalportfolio-lovat-nine.vercel.app/)
 - 📫 **Reach out:** [gokulgokulkannan770@gmail.com](mailto:gokulgokulkannan770@gmail.com)
 
 ---
@@ -86,5 +87,17 @@
 ---
 
 <div align="center">
-  <sub>Designed with precision • Let's build something impactful together!</sub>
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-kannan-a-471361271/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://personalportfolio-lovat-nine.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulgokulkannan770@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with passion & precision • Let's build something impactful together!</sub>
 </div>
